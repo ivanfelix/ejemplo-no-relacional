@@ -1,4 +1,7 @@
 # Requirements
+
+Ejemplo de relaciones.
+
 - what is an APi
 	- api endpoints
 - Nodejs
@@ -8,5 +11,4 @@
 	- models
 
 # Tools
-- Robomongo
 - Postman
